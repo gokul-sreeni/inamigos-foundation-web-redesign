@@ -95,6 +95,7 @@ The redesign was created to demonstrate practical UI/UX thinking and frontend pr
 └── README.md
 
 📸 Deliverables
+
 Website Improvement Analysis Report
 Annotated Website Screenshots
 Redesigned Website Concept
@@ -147,7 +148,6 @@ Original Website Analysis
 (Add screenshots here)
 
 Redesigned UI Concept
-
 (Add redesign screenshots here)
 
 🔗 Original Website
@@ -155,8 +155,8 @@ Redesigned UI Concept
 https://inamigosfoundation.org.in/
 
 👨‍💻 Author
-Gokul
 
+Gokul
 BE CSE (IoT) Student
 UI/UX & Frontend Design Internship Project
 
